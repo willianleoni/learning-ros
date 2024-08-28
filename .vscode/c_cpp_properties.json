@@ -8,6 +8,7 @@
       "includePath": [
         "/opt/ros/humble/include/**",
         "/home/leoni/ros2_study/src/metallica/include/**",
+        "/home/leoni/ros2_study/src/turtle_spawner/include/**",
         "/usr/include/**"
       ],
       "name": "ROS",
